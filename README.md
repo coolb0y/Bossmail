@@ -1,6 +1,6 @@
 # Bossmail
 This project was created for Flipr Hackathon 9.0 . You can send many mail at any scheduled time . Just Now to  any time in Future . Put Time in  IST only 
-(Note this proeject is also available on my another github account with username cyberboy007 created for hackathon .
+(Note this project is also available on my another github account with username cyberboy007 created for hackathon .
 # MAILBOSS
 
 A fullstack web application where users can login and send 
